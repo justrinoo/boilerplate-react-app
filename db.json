@@ -1,0 +1,40 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "username": "rino",
+      "password": "123456"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": 1,
+      "skillName": "so"
+    }
+  ],
+  "skillLevel": [
+    {
+      "skillLevelId": 1,
+      "skillLevelName": ""
+    }
+  ],
+  "profile": [
+    {
+      "id": 1,
+      "username": "riyaraa",
+      "name": "Rino Satya Putra",
+      "address": "Jl Sudirman no 20",
+      "bod": "20/01/2003",
+      "email": "rino@gmail.com"
+    },
+    {
+      "id": 2,
+      "username": "aw",
+      "name": "aw",
+      "address": "aw",
+      "password": "1234",
+      "bod": "2022-06-08",
+      "email": "rinosdc@gmail.com"
+    }
+  ]
+}
